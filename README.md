@@ -1,10 +1,10 @@
 # Welcome to My Profile! 👋
 
-Hey there! I'm [Basim (pronounced ba sim)], and this is my GitHub profile. I'm passionate about technology, coding, and continuous learning. Here, you'll find a glimpse of who I am, my skills, and the projects I'm working on. Feel free to connect and explore.
+Hey there! I'm Basim (pronounced ba sim), and this is my GitHub profile. I'm passionate about technology, coding, and continuous learning. Here, you'll find a glimpse of who I am, my skills, and the projects I'm working on. Feel free to connect and explore.
 
 ## About Me 🧑‍💻
 
-I'm a [undergrad student], currently studying in [Chandigarh University]. My journey in the world of tech started when [i was introduced to java in 2017 and also when muy uncle bought the first iphone 3 in 2008 , from there then things got me curious and had me pondering]. Since then, I've been exploring different aspects of technology and embracing the ever-evolving digital landscape.
+I'm an undergrad student, currently studying in Chandigarh University. My journey in the world of tech started when i was introduced to java in 2017 by my school and also when my uncle bought the first iphone 3 in 2008 , from there then things got me curious and had me pondering. Since then, I've been exploring different aspects of technology and embracing the ever-evolving digital landscape.
 
 ## Skills 🚀
 
@@ -30,8 +30,8 @@ Feel free to explore my repositories to see more of my work.
 
 ## Connect with Me 🌐
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/basim-siddiqui-13055a229/)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/your-username)
+- **LinkedIn**:[](https://www.linkedin.com/in/basim-siddiqui-13055a229/)
+- **Instagram**: [](https://twitter.com/your-username)
 - **Email**: basim586siddiqui@gmail.com
 
 I love connecting with fellow developers, tech enthusiasts, and anyone passionate about making cool stuff with code. Don't hesitate to reach out!
