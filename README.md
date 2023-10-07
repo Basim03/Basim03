@@ -10,13 +10,11 @@ I'm a [Your Profession/Role], currently based in [Your Location]. My journey in 
 
 Here are some of the skills and technologies I'm proficient in:
 
-- **Programming Languages**: Python, JavaScript, Java
-- **Web Development**: HTML, CSS, React
-- **Data Science**: Pandas, NumPy, Matplotlib
-- **Databases**: MySQL, MongoDB
-- **Tools & DevOps**: Git, Docker, AWS
-- **Machine Learning**: TensorFlow, scikit-learn
-- **UI/UX Design**: Figma, Adobe XD
+- **Programming Languages**: Python,Java,C++
+- **Web Development**: HTML, CSS, Bootstrap
+- **Databases**: MySQL
+- **Tools & DevOps**: Git, Docker
+- **Machine Learning**: TensorFlow, scikit-learn,Advanced Machine learning
 
 I'm always eager to learn new things and expand my skill set. If you have any recommendations or want to collaborate on a project, let's chat! 💬
 
@@ -24,15 +22,15 @@ I'm always eager to learn new things and expand my skill set. If you have any re
 
 I enjoy working on a variety of projects, from web applications to data analysis and more. Some of my recent projects include:
 
-1. [Project Name](link to project) - Brief description of the project.
-2. [Project Name](link to project) - Brief description of the project.
-3. [Project Name](link to project) - Brief description of the project.
+1. [Voice controlled Robotic vehicle](https://github.com/Basim03/Voice-Controlled-Robotic-Vehicle) - Voice controlled robotic which takes command from the user and navigates accordingly
+2. [Image Cpation Generator](https://github.com/Basim03/Image-caption-generator) - An AML based project which produces the caption for the input image.
+3. [Fake review detection and monitoring system](link to project) - A machine learning based project which detects fake review from an e.
 
 Feel free to explore my repositories to see more of my work.
 
 ## Connect with Me 🌐
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/basim-siddiqui-13055a229/)
 - **Twitter**: [Your Twitter Profile](https://twitter.com/your-username)
 - **Email**: your.email@example.com
 
