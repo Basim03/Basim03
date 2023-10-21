@@ -45,3 +45,5 @@ I love connecting with fellow developers, tech enthusiasts, and anyone passionat
 - I'm a coding enthusiast by day and a ponderer by night 🌙
 
 Thanks for stopping by! Feel free to explore my repositories, reach out for collaborations, or just say hello. Let's connect and make the tech world a little more awesome together! 🚀
+
+[![An image of @basim03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/basim03)](https://holopin.io/@basim03)
