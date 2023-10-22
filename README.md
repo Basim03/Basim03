@@ -51,5 +51,5 @@ Thanks for stopping by! Feel free to explore my repositories, reach out for coll
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Basim03&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basim03)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basim03&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
