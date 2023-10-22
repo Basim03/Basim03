@@ -50,4 +50,5 @@ Thanks for stopping by! Feel free to explore my repositories, reach out for coll
 
 ---
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Basim03
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Basim03&theme=dark&background=000000)](https://git.io/streak-stats)
+
