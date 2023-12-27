@@ -24,7 +24,7 @@ I enjoy working on a variety of projects, from web applications to data analysis
 
 1. [Voice controlled Robotic vehicle](https://github.com/Basim03/Voice-Controlled-Robotic-Vehicle) - Voice controlled robotic which takes command from the user and navigates accordingly
 2. [Image Cpation Generator](https://github.com/Basim03/Image-caption-generator) - An AML based project which produces the caption for the input image.
-3. [Fake review detection and monitoring system](link to project) - A machine learning based project which detects fake review from an e-commerce website.
+3. [Fake review detection and monitoring system](https://github.com/Basim03/E-commerce-fake-review-detection-and-monitoring-system) - A machine learning based project which detects fake review from an e-commerce website.
 
 Feel free to explore my repositories to see more of my work.
 
