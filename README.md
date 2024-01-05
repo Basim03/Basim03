@@ -35,7 +35,6 @@ Feel free to explore my repositories to see more of my work.
 
 - **LinkedIn**:[Basim Siddiqui](https://www.linkedin.com/in/basim-siddiqui-13055a229/)
 - **Instagram**: [_basim.xo](https://twitter.com/your-username)
-- **Website**:[My website](https://basim03.github.io/Personal-wesbite/)(in works)
 - **LeetCode**:[Basim786](https://leetcode.com/Basim786/)
 - **Email**: basim586siddiqui@gmail.com
 
