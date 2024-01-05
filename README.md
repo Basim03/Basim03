@@ -3,8 +3,7 @@
 Hey there! I'm Basim (pronounced ba sim), and this is my GitHub profile. I'm passionate about technology, coding, and continuous learning. Here, you'll find a glimpse of who I am, my skills, and the projects I'm working on. Feel free to connect and explore.
 <br>
 <br>
-<br>
-<br>
+
 ![](https://komarev.com/ghpvc/?username=Basim03&color=green)
 ## About Me 🧑‍💻
 
