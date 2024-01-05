@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋
 
 Hey there! I'm Basim (pronounced ba sim), and this is my GitHub profile. I'm passionate about technology, coding, and continuous learning. Here, you'll find a glimpse of who I am, my skills, and the projects I'm working on. Feel free to connect and explore.
-
+![](https://komarev.com/ghpvc/?username=Basim03&color=green)
 ## About Me 🧑‍💻
 
 I'm an undergrad student, currently studying in Chandigarh University. My journey in the world of tech started when i was introduced to java in 2017 by my school and also when my uncle bought the first iphone 3 in 2008 , from there then things got me curious and had me pondering. Since then, I've been exploring different aspects of technology and embracing the ever-evolving digital landscape.
